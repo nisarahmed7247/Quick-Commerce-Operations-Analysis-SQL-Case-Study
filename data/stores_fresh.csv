@@ -1,0 +1,9 @@
+store_id,store_name,zone,store_size_sqft,opening_date
+GGN_01,Gurgaon Dark Store 01,North Gurgaon,2800,2024-04-15
+GGN_02,Gurgaon Dark Store 02,Central Gurgaon,3000,2024-06-01
+GGN_03,Gurgaon Dark Store 03,South Gurgaon,2650,2024-08-10
+GGN_04,Gurgaon Dark Store 04,West Gurgaon,2900,2024-05-20
+GGN_05,Gurgaon Dark Store 05,East Gurgaon,3100,2024-07-05
+GGN_06,Gurgaon Dark Store 06,North-East Gurgaon,2750,2024-09-12
+GGN_07,Gurgaon Dark Store 07,South-East Gurgaon,3050,2024-10-01
+GGN_08,Gurgaon Dark Store 08,Outer Gurgaon,2850,2025-01-15

@@ -1,0 +1,53 @@
+product_id,product_name,category,brand,unit_cost,selling_price
+SKU0001,Tomato,Fruits & Vegetables,Fresh Farm,28,39
+SKU0002,Onion,Fruits & Vegetables,Fresh Farm,32,44
+SKU0003,Potato,Fruits & Vegetables,Fresh Farm,25,34
+SKU0004,Banana,Fruits & Vegetables,Daily Harvest,42,55
+SKU0005,Apple,Fruits & Vegetables,Orchard Select,110,145
+SKU0006,Cucumber,Fruits & Vegetables,Fresh Farm,24,34
+SKU0007,Spinach,Fruits & Vegetables,Fresh Farm,18,26
+SKU0008,Green Chilli,Fruits & Vegetables,Fresh Farm,35,49
+SKU0009,Lemon,Fruits & Vegetables,Fresh Farm,55,75
+SKU0010,Capsicum,Fruits & Vegetables,Fresh Farm,48,65
+SKU0011,Carrot,Fruits & Vegetables,Fresh Farm,38,52
+SKU0012,Cauliflower,Fruits & Vegetables,Fresh Farm,32,45
+SKU0013,Mango,Fruits & Vegetables,Orchard Select,95,130
+SKU0014,Grapes,Fruits & Vegetables,Orchard Select,75,105
+SKU0015,Coriander,Fruits & Vegetables,Fresh Farm,12,18
+SKU0016,Ginger,Fruits & Vegetables,Fresh Farm,60,82
+SKU0017,Full Cream Milk 1L,Dairy & Eggs,Daily Dairy,54,65
+SKU0018,Toned Milk 1L,Dairy & Eggs,Daily Dairy,48,58
+SKU0019,Curd 400g,Dairy & Eggs,Daily Dairy,34,45
+SKU0020,Paneer 200g,Dairy & Eggs,Daily Dairy,68,88
+SKU0021,Butter 100g,Dairy & Eggs,Daily Dairy,48,62
+SKU0022,Cheese Slices 200g,Dairy & Eggs,Daily Dairy,92,120
+SKU0023,Eggs 6 Pack,Dairy & Eggs,Farm Fresh,42,55
+SKU0024,Eggs 12 Pack,Dairy & Eggs,Farm Fresh,78,99
+SKU0025,Buttermilk 500ml,Dairy & Eggs,Daily Dairy,22,30
+SKU0026,Yogurt Cup,Dairy & Eggs,Daily Dairy,18,25
+SKU0027,Atta 5kg,Packaged Foods,Daily Staples,185,225
+SKU0028,Basmati Rice 1kg,Packaged Foods,Daily Staples,78,105
+SKU0029,Toor Dal 1kg,Packaged Foods,Daily Staples,112,145
+SKU0030,Poha 500g,Packaged Foods,Daily Staples,32,45
+SKU0031,Oats 1kg,Packaged Foods,Healthy Start,105,139
+SKU0032,Bread,Packaged Foods,Daily Bake,28,38
+SKU0033,Instant Noodles 4 Pack,Packaged Foods,QuickBite,48,65
+SKU0034,Pasta 500g,Packaged Foods,QuickBite,42,58
+SKU0035,Cooking Oil 1L,Packaged Foods,Daily Staples,118,149
+SKU0036,Sugar 1kg,Packaged Foods,Daily Staples,42,55
+SKU0037,Potato Chips,Snacks & Beverages,CrunchUp,18,25
+SKU0038,Biscuits Family Pack,Snacks & Beverages,BiteJoy,32,45
+SKU0039,Chocolate Bar,Snacks & Beverages,ChocoTime,25,35
+SKU0040,Cola 750ml,Snacks & Beverages,FizzUp,35,49
+SKU0041,Orange Juice 1L,Snacks & Beverages,FruitSip,82,110
+SKU0042,Mineral Water 1L,Snacks & Beverages,PureDrop,12,20
+SKU0043,Instant Coffee 100g,Snacks & Beverages,BeanCraft,125,165
+SKU0044,Tea 250g,Snacks & Beverages,TeaTrail,92,125
+SKU0045,Dishwash Liquid 500ml,Household & Personal Care,HomeShine,65,89
+SKU0046,Laundry Detergent 1kg,Household & Personal Care,HomeShine,92,125
+SKU0047,Toilet Cleaner 500ml,Household & Personal Care,HomeShine,58,79
+SKU0048,Shampoo 180ml,Household & Personal Care,GlowCare,115,155
+SKU0049,Bath Soap 4 Pack,Household & Personal Care,GlowCare,78,105
+SKU0050,Toothpaste 150g,Household & Personal Care,GlowCare,62,85
+SKU0051,Handwash 250ml,Household & Personal Care,GlowCare,48,65
+SKU0052,Sanitary Pads 7 Pack,Household & Personal Care,CarePlus,68,92
